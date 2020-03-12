@@ -144,5 +144,7 @@ input[type=number]::-webkit-outer-spin-button {
 .kt-chat__editor textarea {
   padding: 10px;
   font-size: 16px; }
-
+.bootstrap-timepicker-widget.dropdown-menu{
+  direction: ltr;
+}
 /*# sourceMappingURL=my-style.css.map */

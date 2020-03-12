@@ -1056,6 +1056,7 @@
 <script>
     $('.kt_timepicker_1').timepicker({
         defaultTime: '',
+        showMeridian: false,
     });
 </script>
 </body>
