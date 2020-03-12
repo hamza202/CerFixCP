@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5ce826b-dfd1-40b2-9962-c25edea7f08c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/my-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/my-style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WNOUY1PwVfgfSb7v8dtOGfaZj1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ce826b-dfd1-40b2-9962-c25edea7f08c" name="Default Changelist" comment="" />
+      <created>1578986602824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578986602824</updated>
+      <workItem from="1578986605981" duration="3716000" />
+      <workItem from="1578995603152" duration="17913000" />
+      <workItem from="1579077197159" duration="15703000" />
+      <workItem from="1579161870481" duration="10971000" />
+      <workItem from="1579335306309" duration="18306000" />
+      <workItem from="1579699540741" duration="9524000" />
+      <workItem from="1579792209025" duration="8047000" />
+      <workItem from="1579819799232" duration="1915000" />
+      <workItem from="1579873446688" duration="648000" />
+      <workItem from="1580118731680" duration="15341000" />
+      <workItem from="1580218553662" duration="18199000" />
+      <workItem from="1580288093007" duration="10323000" />
+      <workItem from="1581110327589" duration="121000" />
+      <workItem from="1581425261329" duration="11882000" />
+      <workItem from="1581448695020" duration="3854000" />
+      <workItem from="1582109328781" duration="1135000" />
+      <workItem from="1582111763618" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="329" key="NewPhpFileDialog" timestamp="1579001449041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="329" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1579001449041" />
+    <state x="531" y="85" key="RollbackChangesDialog" timestamp="1580134667992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="85" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580134667992" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579100445724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579100445724" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580129471535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580129471535" />
+  </component>
+</project>

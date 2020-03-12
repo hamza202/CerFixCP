@@ -1,0 +1,184 @@
+$yellow: #FEC516;
+html{
+  direction: rtl;
+}
+body{
+  font-weight: 400;
+}
+.form-control{
+  font-size: 1.2rem;
+}
+.fw-500{
+  font-weight: 500;
+}
+.fw-600{
+  font-weight: 600;
+}
+.kt-header-mobile__logo{
+  img{
+    max-height: 41px;
+  }
+}
+.kt-aside__brand-logo{
+  img{
+    max-height: 40px;
+  }
+}
+.how-work-table{
+  img{
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+}
+table{
+  font-size: 15px;
+  td{
+    font-weight: 400;
+  }
+  .kt-badge{
+    font-size: 13px;
+  }
+}
+div.dataTables_wrapper div.dataTables_info{
+  font-size: 14px;
+}
+.my-font{
+  color: #333;
+  font-size: 14px;
+}
+.modal-footer{
+  .btn{
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+}
+.form-control{
+  &:focus{
+    border-color: rgba($yellow , 0.5);
+  }
+}
+.is-invalid .invalid-feedback{
+  font-size: 13px;
+}
+form{
+  .error{
+    color: red;
+    font-size: 14px;
+  }
+}
+.kt-switch.kt-switch--outline.kt-switch--success input:empty ~ span:after{
+  background-color: #fd397a;
+}
+.kt-switch.kt-switch--outline.kt-switch--success input:checked ~ span:after {
+  background-color: #0abb87;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#map_1{
+  width: 100%;
+  height: 300px;
+}
+.kt-widget__subhead{
+  a{
+    position: relative;
+    padding-right: 17px !important;
+    display: inline-block;
+    padding-left: 8px !important;
+    i{
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+}
+.kt-widget__info{
+  .btn{
+    font-weight: 500 !important;
+  }
+}
+.table-nowrap{
+  th{
+    white-space: nowrap;
+  }
+}
+.down-id{
+  i{
+    font-size: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .kt-widget.kt-widget--user-profile-3 .kt-widget__top .kt-widget__media img {
+    max-width: 80px;
+  }
+  .kt-widget__action{
+    a{
+      margin-bottom: 5px;
+    }
+  }
+}
+.kt-widget.kt-widget--user-profile-3 .kt-widget__bottom .kt-widget__item{
+  svg{
+    width: 45px;
+    height: 45px;
+  }
+}
+.orange-after.kt-callout--diagonal-bg:after{
+  background-color: #ffeabd;
+}
+.kt-callout .kt-callout__body .kt-callout__content .kt-callout__desc.desc-bold{
+  font-size: 22px;
+  font-weight: 900;
+  color: #fd397a;
+}
+.kt-widget.kt-widget--user-profile-3 .kt-widget__bottom .kt-widget__item .kt-widget__icon i{
+  width: 45px;
+  text-align: right;
+}
+.ps__thumb-y{
+  left: 0;
+}
+.kt-chat__messages  {
+  .kt-chat__message{
+    &:not(.kt-chat__message--right){
+      .kt-chat__user{
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}
+.kt-avatar .kt-avatar__holder{
+  background-position: center;
+}
+.form-group {
+  label , p{
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+}
+.bootstrap-select{
+  &.is-invalid{
+    padding-left: 0;
+    background-image: none;
+  }
+  .filter-option-inner-inner{
+    font-size: 1.2rem;
+  }
+}
+.kt-chat__editor{
+  border: 1px solid #e3e3e3;
+  -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.17);
+  -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.17);
+  box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.17);
+}
+.kt-chat__editor textarea{
+  padding: 10px;
+  font-size: 16px;
+}
